@@ -10,10 +10,10 @@
 
   <p>
     <a href="https://suroy.cn"><img alt="SUROY(BLOG)" src="https://img.shields.io/website?down_message=FLOWER&label=SUROY&up_color=ff69b4&up_message=DREAM&logo=micro:bit&url=https%3A%2F%2Fsuroy.cn"></a>
-    <a href="https://github.com/zsuroy"><img alt="Suroy" src="https://img.shields.io/github/languages/top/zsuroy/cdnu_health?style=flat-square"/></a>
-    <a href="https://github.com/zsuroy"><img alt="Suroy" src="https://img.shields.io/github/languages/count/zsuroy/cdnu_health?style=flat"/></a>
-    <a href="https://github.com/zsuroy"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/zsuroy/cdnu_health"></a>
-    <img alt="GitHub" src="https://img.shields.io/github/license/zsuroy/cdnu_health">
+    <a href="https://github.com/zsuroy"><img alt="Suroy" src="https://img.shields.io/github/languages/top/zsuroy/healthApp?style=flat-square"/></a>
+    <a href="https://github.com/zsuroy"><img alt="Suroy" src="https://img.shields.io/github/languages/count/zsuroy/healthApp?style=flat"/></a>
+    <a href="https://github.com/zsuroy"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/zsuroy/healthApp"></a>
+    <img alt="GitHub" src="https://img.shields.io/github/license/zsuroy/healthApp">
     <a href="https://github.com/zsuroy"><img alt="GitHub AutoJs6 repository" src="https://img.shields.io/badge/auto.js->= 6.0.1-67a91b"/></a>
   </p>
 </div>
@@ -134,7 +134,7 @@
 
 ## 👑更新记录
 
-- 历史版本更新记录可前往[RELEASES 页面](https://github.com/zsuroy/) 查看
+- 历史版本更新记录可前往[RELEASES 页面](https://github.com/zsuroy/healthApp/realease) 查看
 
 ******
 
