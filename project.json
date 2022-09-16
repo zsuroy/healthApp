@@ -1,0 +1,58 @@
+{
+    "abis": null,
+    "assets": [],
+    "build": {
+        "build_number": 0,
+        "build_time": 0,
+        "release": false
+    },
+    "encryptLevel": 0,
+    "useFeatures": [],
+    "launchConfig": {
+        "displaySplash": true,
+        "hideLogs": false,
+        "splashText": "Powered by Auto.js Pro",
+        "stableMode": false,
+        "splashIcon": null,
+        "splashLayoutXml": null
+    },
+    "main": "main.js",
+    "name": "健康打卡小助手",
+    "optimization": {
+        "removeOpenCv": false,
+        "unusedResources": false,
+        "removeAccessibilityService": false,
+        "obfuscateComponents": false
+    },
+    "packageName": "cn.suroy.healthapp",
+    "scripts": {},
+    "versionCode": 1,
+    "versionName": "Dev 1.0.0",
+    "icon": "images/ic_app_logo.png",
+    "publish": {
+        "category": "实用工具",
+        "details": "健康打卡小助手",
+        "maxAutoJsVersion": -1,
+        "maxProVersion": 8189999,
+        "minAutoJsVersion": -1,
+        "minProVersion": 8180000,
+        "minSdkVersion": 2,
+        "permissions": [],
+        "summary": "生活原本沉闷，跟你一起奔跑就会有风。",
+        "tags": []
+    },
+    "signingConfig": null,
+    "androidResources": null,
+    "permissionConfig": {
+        "manifestPermissions": null,
+        "requestListOnStartup": [
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+        ]
+    },
+    "ignore": ["build"],
+    "features": null,
+    "plugins": null,
+    "devDependencies": {
+      "@autojs/types-pro8": "^8.8.0"
+    }
+}
