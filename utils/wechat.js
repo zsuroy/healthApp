@@ -11,6 +11,7 @@ var vxModule = {};
 
 
 // const myPlugs = require("plugins.js"); //导入公共模块库
+// const appUtils = require("./AppUtil.js"); //导入模块库
 
 /**
  * 启动微信

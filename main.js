@@ -14,6 +14,7 @@ const vxPlug = require("./utils/wechat.js");//导入微信处理模块
 const httpPlug = require("./utils/httpcan.js");//导入httpCanary处理模块
 const myPlugs = require("./utils/plugins.js"); //导入公共模块库
 const limit = require("./utils/limit.js");
+const appUtils = require("./utils/AppUtil.js"); //导入app模块库
 
 setScreenMetrics(1080, 2340); //适配分辨率
 device.keepScreenDim();
